@@ -1,2 +1,2 @@
 # periodontitis-and-GDM
-Oral microbiome redeployment curbs the exacerbation of hyperglycemia
+Source data and codes for Oral microbiome redeployment curbs the exacerbation of hyperglycemia
